@@ -267,3 +267,4 @@ Get ready to **DASH** through a neon wonderland! How many obstacles can you surv
 
 *Last Updated: March 2026*
 *Made with ❤️ and pygame-ce*
+© I Wayan Dirgayusa
